@@ -1,4 +1,5 @@
 # E-commerce Customer Churn Analysis & Prediction
+<img src="Churn.png" width="500">
 
 ## Project Overview
 The goal of this project is to predict customer churn and perform customer segmentation for an e-commerce platform. By identifying at-risk customers, it provides insights to reduce churn and improve customer retention. Additionally, customer segmentation is performed to tailor strategies for different customer groups, enhancing the platform's retention efforts.
